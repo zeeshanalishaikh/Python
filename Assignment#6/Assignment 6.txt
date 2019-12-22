@@ -1,0 +1,59 @@
+					===========Pyhton Assignmnet 6==========
+=>Question#1:
+    Object Oriented Programming (OOP) is a software design pattern that allows you to think about problems in terms of objects and their interactions.
+An “Object” is the key component of Object-oriented programming. An Object may contain data (fields or variables) or code (methods or procedures). 
+The creation of these objects is based on a programmer-defined blue-print also known as a Class. Object-oriented programming aims to implement 
+real-world entities like inheritance, hiding, polymorphism etc in programming. The main aim of OOP is to bind together the data and the functions
+that operate on them so that no other part of the code can access this data except that function.
+Popular Object-Oriented Languages are Simula (the first object-oriented programming language), Java, Python, C++,  C#.
+
+
+==>Question#2:
+    Object-orientation contributes to the solutions of many problem associated with the development and quality of software products.
+1.  Through inheritance, we can eliminate redundant code and extend the use of existing classes.
+2·  We can built programs from standard working modules that communicate with one another rather than, having to start writing the code from scratch.
+This leads to saving of development time and higher productivity.
+3·  The principle of data hiding helps the programmers to built secure program that can’t be invaded by code in other parts of the program.
+4·  It is possible to have multiple objects to coexist without any interference.
+5·  It is possible to map objects in the problem domain to those objects in the program.
+6·  It is easy to partition the work in a project based on objects.
+7·  The data-centered design approach enables us to capture more details of the model in an implementable form.
+8·  Object-oriented systems can be easily upgraded from small to large system
+9·  Message passing technique for communication between objects make the interface descriptions with external system much simpler.
+10·  Software complexity can be easily managed.
+
+
+==>Question#3:
+    Python function is a sequence of statements that execute in a certain order, given a name. They let us implement code reusability. There are two types 
+of Functions. A function is a block of code to carry out a specific task, will contain its own scope and is called by name. All functions may contain zero(no)
+arguments or more than one arguments. On exit, a function can or can not return one or more values.
+a. USER DEFINED FUNCTIONS
+b. BUILT IN FUNCTIONS
+c. ANONYMOUS FUNCTIONS
+
+    A method in python is somewhat similar to a function, except it is associated with object/classes. Methods in python are very similar to functions except
+for two major differences.
+1. The method is implicitly used for an object for which it is called.
+2.The method is accessible to data that is contained within the class.
+
+Key Difference:    
+1. Unlike a function, methods are called on an object.
+2. Unlike method which can alter the object’s state, python function doesn’t do this and normally operates on it.
+In Short, a method is a function which belongs to an object.
+
+
+==>Question#4:
+1. CLASS: Python is an “object-oriented programming language.” This means that almost all the code is implemented using a special construct called classes
+A class creates a new local namespace where all its attributes are defined. Attributes may be data or functions. There are also special attributes in it that 
+begins with double underscores (__). For example, __doc__ gives us the docstring of that class. A class is a code template for creating objects.
+Objects have member variables and have behaviour associated with them. In python a class is created by the keyword class.
+
+2.  OBJECT: Objects are an encapsulation of variables and functions into a single entity. Objects get their variables and functions from classes. Classes are
+essentially a template to create your objects. Simply, we can say Object is also called Class variable.
+
+3. ATTRIBUTE: An instance attribute is a Python variable belonging to one, and only one, object. A class attribute is a Python variable that belongs to a class
+rather than a particular object. It is shared between all the objects of this class and it is defined outside the constructor function.
+
+4. BEHAVIOUR: Behaviors are actions that can occur on an object. The behaviors that can be performed on a specific class of object are called methods. At
+the programming level, methods are like functions in structured programming, but they magically have access to all the data associated with this object. 
+Like functions, methods can also accept parameters and return values.
